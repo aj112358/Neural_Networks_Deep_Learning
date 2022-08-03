@@ -29,10 +29,14 @@ Now, in the 2020s we are in yet another wave of interest in neural networks. Luc
 
 We first start our journey by looking into a biological neuron.
 
+![biological-neuron](https://github.com/aj112358/Neural_Networks_Deep_Learning/blob/main/10_Intro_to_ANNs_with_Keras/10_images/biological_neuron.png)
+
+Since I am already familiar with anatomy and physiology, we won't go too much in-depth regarding this image. Essentially, the neuron will produce action potentials which travel along it's dendrite and release neurotransmitters at the synapses. Once a sufficient amount of neurotransmitters have been released, the desired function will be exhibited, and the second neuron will begin to fire it's own action potential.
+
+This quite simple mechanism works on a much grander scale, onto billions of neurons, each of which could be connected to thousands of other neurons. And thus, we can believe that highly complex computations **CAN** be performed using a collection of such simple neurons, which supports the claim for research of ANNs
 
 
-
-
+### 10.1.2 - Logical Computations with Neurons
 
 
 
